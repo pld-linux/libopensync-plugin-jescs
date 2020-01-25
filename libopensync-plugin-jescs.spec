@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	autodeps	# don't BR packages needed only for resolving deps
 #
-%include	/usr/lib/rpm/macros.perl
 Summary:	OpenSync Plugin for Java Enterprise System Calendar
 Summary(pl.UTF-8):	Wtyczka kalendarza Java Enterprise System Calendar do OpenSync
 Name:		libopensync-plugin-jescs
